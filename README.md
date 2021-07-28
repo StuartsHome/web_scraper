@@ -1,5 +1,5 @@
-# reddit_Scraper
-scrapes Reddit using 
+# web_scraper
+scrapes websites 
 
 ## App
 PostGresql database
